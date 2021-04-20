@@ -108,7 +108,7 @@ console.log(scrollPosition);
                             </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                Application d'é-commerce; profiter également de mes expériences en marketing sur vos sites web.
+                                Application d'e-commerce ; profiter également de mes expériences en marketing sur vos sites web.
                               </p>
                             </div>
                       </div>
@@ -163,7 +163,7 @@ console.log(scrollPosition);
                                </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                Application d'é-commerces; profiter également de mes expériences en marketing sur vos sites web.
+                                Application d'e-commerce ; profiter également de mes expériences en marketing sur vos sites web.
                               </p>
                             </div>
                       </div>
