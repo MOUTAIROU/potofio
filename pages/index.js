@@ -58,16 +58,16 @@ console.log(scrollPosition);
                         <ul>
 
                           <li> <a href="#home">Home</a></li>
-                          <li> <a href="#information">About Me</a></li>
-                          <li> <a href="#experience">Experience</a></li>
-                          <li> <a href="#contact">Contact Me</a></li>
+                          <li> <a href="#information">A propos</a></li>
+                          <li> <a href="#experience">Experiences</a></li>
+                          <li> <a href="#contact">Contacts</a></li>
                         </ul>
                       </div>
                     </nav>
                   <div className ='first-section-square'></div>
                   <div className ='first-section-title'>
                      <div className ='first-section-title-name'>MOUTAIROU BASTOU ABDEL</div>
-                     <div className ='first-section-title-small'><small>I' m react full stack developper </small></div>
+                     <div className ='first-section-title-small'><small>je suis full stack nextjs developpeur </small></div>
                   </div>
                   <div className = 'first-section-ronder'>
                       <img src = './potofio.jpg'/>
@@ -77,20 +77,16 @@ console.log(scrollPosition);
             </div>
             <div className ='second-section' id="information">
 
-                <div className ='second-section-title'><bold>Personal information</bold></div>
+                <div className ='second-section-title'><bold>Information personnelle</bold></div>
                 <div className ='second-section-p'>
                     <p>
-                        Passionné d'amener un projet à la réalité .Je peux développer des produits en travaillant
+                        Passionné d'amener un projet à la réalité, je peux développer des produits en travaillant
 
-                        en groupe ou en solo.
+                        en groupe ou en solo. Avec 3 ans d'expérience je peux développer des produits front-end et back-end.
 
-                        Avec 3 ans d'expérience je peux développer des produits front-end et back-end.
+                        Je suis meneur de projet et chef de statup ce qui m'a permis à développer d'autres
 
-                        Je suis meneur de projet et chef de statup ce qui m'a permis à développer d' autres
-
-                        compétences en
-
-                        web design et implémentation de nouvelle fonctionnalité au projet existant
+                        compétences en web design et implémentation de nouvelles fonctionnalités aux projets existant.
                     </p>
                 </div>
 
@@ -100,19 +96,19 @@ console.log(scrollPosition);
 
                <div className = 'third-section-blur'>
 
-                   <div className = 'third-section-title'><span>Experience</span></div>
+                   <div className = 'third-section-title'><span>Experiences</span></div>
                    <div className = 'third-section-container'>
                       <div className ='third-section-content'>
 
                             <div className = 'third-section-content-title'>
-                               <span>Ecommerce</span>
+                               <span>E-commerce</span>
                             </div>
                             <div className = 'third-section-content-logo'>
                                <div><img src = 'ecom.svg'/></div>
                             </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                Application d'ecommerce, potofio et node js REST API. Profiter  également de mes expériences en marketing sur vos site web
+                                Application d'é-commerce. Profiter également de mes expériences en marketing sur vos site web.
                               </p>
                             </div>
                       </div>
@@ -120,14 +116,14 @@ console.log(scrollPosition);
                       <div className ='third-section-content'>
 
                             <div className = 'third-section-content-title'>
-                               <span>Service</span>
+                               <span>Services</span>
                             </div>
                             <div className = 'third-section-content-logo'>
                                <div><img src = 'setting.svg'/></div>
                             </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                Développé des applications de service web pour vos projets personel et votre entreprise
+                                  Développé des applications de service web pour vos projets personels et entreprises.
                               </p>
                             </div>
                       </div>
@@ -135,14 +131,14 @@ console.log(scrollPosition);
                       <div className ='third-section-content'>
 
                             <div className = 'third-section-content-title'>
-                               <span>Produit Personnaliser</span>
+                               <span>Produits Personnalisés</span>
                             </div>
                             <div className = 'third-section-content-logo'>
                                <div><img src = 'produit.svg'/></div>
                             </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                 Créer des produits personnalisés sur vos sites web
+                                 Créer des produits personnalisés sur vos sites web.
                               </p>
                             </div>
                       </div>
@@ -157,7 +153,7 @@ console.log(scrollPosition);
 
 
                                            <div className = 'third-section-content-title'>
-                                              <span>Ecommerce</span>
+                                              <span>E-commerce</span>
                                            </div>
                                            <div className = 'third-section-content-logo'>
                                               <div><img src = 'ecom.svg'/>
@@ -167,7 +163,7 @@ console.log(scrollPosition);
                                </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                Aplication de vendre et profité de les experiences pour rendre vos plus visible
+                                Application d'é-commerce. Profiter également de mes expériences en marketing sur vos site web.
                               </p>
                             </div>
                       </div>
@@ -179,7 +175,7 @@ console.log(scrollPosition);
                                   <div className = 'third-section-container-responsive-content'>
 
                                         <div className = 'third-section-content-title'>
-                                           <span>Service</span>
+                                           <span>Services</span>
                                         </div>
                                         <div className = 'third-section-content-logo'>
                                            <div><img src = 'setting.svg'/></div>
@@ -189,7 +185,7 @@ console.log(scrollPosition);
 
                             <div className = 'third-section-content-p'>
                               <p>
-                                Aplication de vendre et profité de les experiences pour rendre vos plus visible
+                                Développé des applications de service web pour vos projets personels et entreprises.
                               </p>
                             </div>
                       </div>
@@ -199,7 +195,7 @@ console.log(scrollPosition);
                             <div className = 'third-section-container-responsive-content'>
 
                                 <div className = 'third-section-content-title'>
-                                   <span>Produit Personnaliser</span>
+                                   <span>Produits Personnalisés</span>
                                 </div>
                                 <div className = 'third-section-content-logo'>
                                    <div><img src = 'produit.svg'/></div>
@@ -209,7 +205,7 @@ console.log(scrollPosition);
 
                             <div className = 'third-section-content-p'>
                               <p>
-                                Aplication de vendre et profité de les experiences pour rendre vos plus visible
+                                 Créer des produits personnalisés sur vos sites web.
                               </p>
                             </div>
                       </div>
@@ -295,7 +291,7 @@ console.log(scrollPosition);
 
                     <div className ='five-section-title-container-div'>
                         <div className ='five-container-title'>
-                          <span>Languages de programation</span>
+                          <span>Languages de programations</span>
                         </div>
                         <div className = 'five-container-list'>
                           <span>Nextjs</span>
@@ -325,16 +321,16 @@ console.log(scrollPosition);
                 <div className = 'six-section-div'>
 
                 <div className = 'six-section-div-title'>
-                  <span>Methode de travaile</span>
+                  <span>Méthode de travail</span>
                 </div>
 
                  <div className = 'six-section-div-container'>
 
-                    <div className = 'six-section-div-container-text'>Designe</div>
+                    <div className = 'six-section-div-container-text'>Design</div>
                     <div className = 'six-section-div-container_arrow'><img src = 'arrow.svg'/></div>
-                    <div className = 'six-section-div-container-text'>Fontend</div>
+                    <div className = 'six-section-div-container-text'>Font-end</div>
                     <div className = 'six-section-div-container_arrow'><img src = 'arrow.svg'/></div>
-                    <div className = 'six-section-div-container-text'>Backend</div>
+                    <div className = 'six-section-div-container-text'>Back-end</div>
                  </div>
 
                 </div>
@@ -346,7 +342,7 @@ console.log(scrollPosition);
                 <div className = 'sept-section-div'>
 
                 <div className = 'sept-section-div-title'>
-                  <span>Dernier réalisation</span>
+                  <span>Dernières réalisations</span>
                 </div>
 
                  <div className = 'sept-section-div-container'>
@@ -363,9 +359,9 @@ console.log(scrollPosition);
             <footer className = 'footer' id ="footer">
                  <div className = 'footer-container'>
 
-                     <div className = 'footer-div'> <span>Thanks your for your visite </span> </div>
-                     <div className = 'footer-div'> <button> Go to top</button></div>
-                     <div className = 'footer-div'> <span>Make your app as you never do before</span></div>
+                     <div className = 'footer-div'> <span>Mercie pour la visite. </span> </div>
+                     <div className = 'footer-div'> <button onClick = {() => { window.scrollTo(0, 0)}}> Go to top</button></div>
+                     <div className = 'footer-div'> <span>Créez votre application comme vous ne l'avez jamais fait auparavant.</span></div>
                      <div className = 'footer-contact'>
                        <div className = 'footer-contact-text footer-contact-text-email'><img src = 'email.svg'/> <span> mbastouabdele55@gmail.com</span></div>
                        <div className = 'footer-contact-text footer-contact-text-adress'> <img src = 'address-card.svg'/> <span> Cotonou Benin </span></div>

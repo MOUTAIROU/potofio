@@ -529,6 +529,11 @@ padding: 0px 5%
 }
 @media only screen and (max-width: 985px) and (min-width: 720px)  {
 
+  .six-section-div-container-text {
+
+      font-size: 14px;
+   }
+
   .first-section-ronder {
     height: 230px;
     width: 230px;
@@ -661,6 +666,15 @@ padding: 0px 5%
     }
 }
 @media only screen and (max-width: 719px) and (min-width: 667px)  {
+
+  .six-section-div-container-text {
+
+      font-size: 14px;
+   }
+  .six-section,.six-section-div {
+    height: auto;
+  }
+
 
   .first-section-ronder {
     height: 200px;
@@ -808,6 +822,10 @@ padding: 0px 5%
    }
 }
 @media only screen and  (max-width: 666px) and (min-width: 0px) {
+
+  .six-section,.six-section-div {
+    height: auto;
+  }
 
     .first-section-ronder {
       height: 200px;
@@ -973,7 +991,7 @@ padding: 0px 5%
       }
 
       .sept-section-div-title {
-        font-size: 36px;
+        font-size: 26px;
        }
 
        .sept-section-div-container-div-1 {
@@ -1031,18 +1049,25 @@ padding: 0px 5%
             }
 
           .six-section-div-container {
-            margin-top: 50px;
+            margin-top: 0px;
           }
 
           .forth-section-title {
            font-size: 30px;
             }
 
+        .six-section-div-container {
+        padding-bottom: 30px;
+        height: 246px;
+        }
+        .six-section-div-container-text {
+
+            font-size: 14px;
+         }
+
 }
 
-@media  only screen  and (max-device-width: 1024px)  and (orientation: landscape)   {
 
-}
 
 @media all and  (max-width: 736px) and (orientation: landscape) {
   first-section-ronder {
@@ -1054,7 +1079,15 @@ padding: 0px 5%
   }
 
   .six-section-div-container {
-    height: auto;
+    height: 50vh;
     margin-top: 7%;
+    padding-bottom: 13%;
   }
+  .six-section-div-container-text {
+
+      font-size: 4vw;
+   }
+   .six-section-div-container_arrow {
+    margin: 0px 6%;
+   }
 }
