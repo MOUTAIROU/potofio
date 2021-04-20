@@ -37,9 +37,9 @@ console.log(scrollPosition);
                    <ul>
 
                      <li> <a href="#home">Home</a></li>
-                     <li> <a href="#information">About Me</a></li>
-                     <li> <a href="#experience">Experience</a></li>
-                     <li> <a href="#contact">Contact Me</a></li>
+                     <li> <a href="#information">A propos</a></li>
+                     <li> <a href="#experience">Experiences</a></li>
+                     <li> <a href="#contact">Contacts</a></li>
                    </ul>
                </div>
             </div>
