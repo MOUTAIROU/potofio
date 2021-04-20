@@ -531,7 +531,7 @@ padding: 0px 5%
 
   .six-section-div-container-text {
 
-      font-size: 14px;
+      font-size: 5vw;
    }
 
   .first-section-ronder {
@@ -669,7 +669,7 @@ padding: 0px 5%
 
   .six-section-div-container-text {
 
-      font-size: 14px;
+      font-size: 5vw;
    }
   .six-section,.six-section-div {
     height: auto;
@@ -1050,6 +1050,7 @@ padding: 0px 5%
 
           .six-section-div-container {
             margin-top: 0px;
+            width: 100%
           }
 
           .forth-section-title {
@@ -1062,7 +1063,7 @@ padding: 0px 5%
         }
         .six-section-div-container-text {
 
-            font-size: 14px;
+            font-size: 5vw;
          }
 
 }
