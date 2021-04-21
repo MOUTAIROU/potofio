@@ -67,7 +67,7 @@ console.log(scrollPosition);
                   <div className ='first-section-square'></div>
                   <div className ='first-section-title'>
                      <div className ='first-section-title-name'>MOUTAIROU BASTOU ABDEL</div>
-                     <div className ='first-section-title-small'><small>je suis full stack nextjs developpeur </small></div>
+                     <div className ='first-section-title-small'><small>Je suis développeur Next.js web Frond-end et Back-end.</small></div>
                   </div>
                   <div className = 'first-section-ronder'>
                       <img src = './potofio.jpg'/>
@@ -86,7 +86,7 @@ console.log(scrollPosition);
 
                         Je suis meneur de projet et chef de statup ce qui m'a permis à développer d'autres
 
-                        compétences en web design et implémentation de nouvelles fonctionnalités aux projets existant.
+                        compétences en web design et implémentation de nouvelles fonctionnalités aux projets existants.
                     </p>
                 </div>
 
