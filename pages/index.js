@@ -67,7 +67,7 @@ console.log(scrollPosition);
                   <div className ='first-section-square'></div>
                   <div className ='first-section-title'>
                      <div className ='first-section-title-name'>MOUTAIROU BASTOU ABDEL</div>
-                     <div className ='first-section-title-small'><small>Je suis développeur Next.js web Frond-end et Back-end.</small></div>
+                     <div className ='first-section-title-small'><small>Je suis développeur web Next.js Frond-end et Back-end.</small></div>
                   </div>
                   <div className = 'first-section-ronder'>
                       <img src = './potofio.jpg'/>
