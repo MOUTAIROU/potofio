@@ -163,7 +163,7 @@ console.log(scrollPosition);
                                </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                Application d'e-commerce ; profiter également de mes expériences en marketing sur vos sites web.
+                                Application d'e-commerce; profiter également de mes expériences en marketing sur vos sites web.
                               </p>
                             </div>
                       </div>
@@ -294,11 +294,12 @@ console.log(scrollPosition);
                           <span>Languages de programations</span>
                         </div>
                         <div className = 'five-container-list'>
-                          <span>Nextjs</span>
-                          <span>react-native</span>
-                          <span>nodejs</span>
-                          <span>mysql</span>
-                          <span>mongo</span>
+                          <span>Next.js</span>
+                          <span>React.js</span>
+                          <span>React Native</span>
+                          <span>Node.js</span>
+                          <span>mySQL</span>
+                          <span>mongoDB</span>
                         </div>
                     </div>
 
@@ -316,7 +317,28 @@ console.log(scrollPosition);
 
             </div>
 
-            <div className ='six-section' id="work">
+            <div className ='six-section six-section-not-responsinator' id="work">
+
+                <div className = 'six-section-div'>
+
+                <div className = 'six-section-div-title'>
+                  <span>Méthode de travail</span>
+                </div>
+
+                 <div className = 'six-section-div-container'>
+
+                    <div className = 'six-section-div-container-text'>Design</div>
+                    <div className = 'six-section-div-container_arrow'><img src = 'arrow.svg'/></div>
+                    <div className = 'six-section-div-container-text'>Font-end</div>
+                    <div className = 'six-section-div-container_arrow'><img src = 'arrow.svg'/></div>
+                    <div className = 'six-section-div-container-text'>Back-end</div>
+                 </div>
+
+                </div>
+
+            </div>
+
+            <div className ='six-section six-section-responsinator' id="work">
 
                 <div className = 'six-section-div'>
 
