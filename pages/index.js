@@ -37,9 +37,9 @@ console.log(scrollPosition);
                    <ul>
 
                      <li> <a href="#home">Home</a></li>
-                     <li> <a href="#information">A propos</a></li>
+                     <li> <a href="#information">About Me</a></li>
                      <li> <a href="#experience">Experiences</a></li>
-                     <li> <a href="#contact">Contacts</a></li>
+                     <li> <a href="#contact">Contacts Me</a></li>
                    </ul>
                </div>
             </div>
@@ -67,7 +67,7 @@ console.log(scrollPosition);
                   <div className ='first-section-square'></div>
                   <div className ='first-section-title'>
                      <div className ='first-section-title-name'>MOUTAIROU BASTOU ABDEL</div>
-                     <div className ='first-section-title-small'><small>Je suis développeur web Next.js Frond-end et Back-end.</small></div>
+                     <div className ='first-section-title-small'><small>I am a Next.js Front-end and Back-end web developer.</small></div>
                   </div>
                   <div className = 'first-section-ronder'>
                       <img src = './potofio.jpg'/>
@@ -77,16 +77,16 @@ console.log(scrollPosition);
             </div>
             <div className ='second-section' id="information">
 
-                <div className ='second-section-title'><bold>Information personnelle</bold></div>
+                <div className ='second-section-title'><bold>personal information</bold></div>
                 <div className ='second-section-p'>
                     <p>
-                        Passionné d'amener un projet à la réalité, je peux développer des produits en travaillant
+                        Fascinated by bringing a project to reality, I can develop products by working
 
-                        en groupe ou en solo. Avec 3 ans d'expérience je peux développer des produits front-end et back-end.
+                        in a group or solo. With 3 years of experience I can develop front-end and back-end products.
 
-                        Je suis meneur de projet et chef de statup ce qui m'a permis à développer d'autres
+                        I am a project leader and startup manager which has allowed me to develop other
 
-                        compétences en web design et implémentation de nouvelles fonctionnalités aux projets existants.
+                        skills in web design and implementation of new features to existing projects.
                     </p>
                 </div>
 
@@ -108,7 +108,7 @@ console.log(scrollPosition);
                             </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                Application d'e-commerce ; profiter également de mes expériences en marketing sur vos sites web.
+                               E-commerce application; also take advantage of my experience in marketing your websites.
                               </p>
                             </div>
                       </div>
@@ -123,7 +123,7 @@ console.log(scrollPosition);
                             </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                  Développé des applications de service web pour vos projets personels et entreprises.
+                                  Develop web service applications.
                               </p>
                             </div>
                       </div>
@@ -138,7 +138,7 @@ console.log(scrollPosition);
                             </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                 Créer des produits personnalisés sur vos sites web.
+                                 Create custom products on your websites.
                               </p>
                             </div>
                       </div>
@@ -163,7 +163,7 @@ console.log(scrollPosition);
                                </div>
                             <div className = 'third-section-content-p'>
                               <p>
-                                Application d'e-commerce; profiter également de mes expériences en marketing sur vos sites web.
+                                E-commerce application; also take advantage of my experience in marketing your websites.
                               </p>
                             </div>
                       </div>
@@ -185,7 +185,7 @@ console.log(scrollPosition);
 
                             <div className = 'third-section-content-p'>
                               <p>
-                                Développé des applications de service web pour vos projets personels et entreprises.
+                                Develop web service applications.
                               </p>
                             </div>
                       </div>
@@ -205,7 +205,7 @@ console.log(scrollPosition);
 
                             <div className = 'third-section-content-p'>
                               <p>
-                                 Créer des produits personnalisés sur vos sites web.
+                                 Create custom products on your websites.
                               </p>
                             </div>
                       </div>
@@ -286,12 +286,12 @@ console.log(scrollPosition);
 
             <div className = 'five-section' id="skill">
 
-                <div className ='five-section-title'><span>Languages</span></div>
+                <div className ='five-section-title'><span>Skill</span></div>
                 <div className ='five-section-title-container'>
 
                     <div className ='five-section-title-container-div'>
                         <div className ='five-container-title'>
-                          <span>Languages de programations</span>
+                          <span>Tools</span>
                         </div>
                         <div className = 'five-container-list'>
                           <span>Next.js</span>
@@ -322,7 +322,7 @@ console.log(scrollPosition);
                 <div className = 'six-section-div'>
 
                 <div className = 'six-section-div-title'>
-                  <span>Méthode de travail</span>
+                  <span>How to work</span>
                 </div>
 
                  <div className = 'six-section-div-container'>
@@ -343,7 +343,7 @@ console.log(scrollPosition);
                 <div className = 'six-section-div'>
 
                 <div className = 'six-section-div-title'>
-                  <span>Méthode de travail</span>
+                  <span>How to work</span>
                 </div>
 
                  <div className = 'six-section-div-container'>
@@ -381,9 +381,9 @@ console.log(scrollPosition);
             <footer className = 'footer' id ="footer">
                  <div className = 'footer-container'>
 
-                     <div className = 'footer-div'> <span>Mercie pour la visite. </span> </div>
+                     <div className = 'footer-div'> <span>Thank you for visiting. </span> </div>
                      <div className = 'footer-div'> <button onClick = {() => { window.scrollTo(0, 0)}}> Go to top</button></div>
-                     <div className = 'footer-div'> <span>Créez votre application comme vous ne l'avez jamais fait auparavant.</span></div>
+                     <div className = 'footer-div'> <span>Build an application like you've never built it before.</span></div>
                      <div className = 'footer-contact'>
                        <div className = 'footer-contact-text footer-contact-text-email'><img src = 'email.svg'/> <span> mbastouabdele55@gmail.com</span></div>
                        <div className = 'footer-contact-text footer-contact-text-adress'> <img src = 'address-card.svg'/> <span> Cotonou Benin </span></div>
