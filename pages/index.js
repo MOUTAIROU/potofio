@@ -84,7 +84,7 @@ console.log(scrollPosition);
 
                         en groupe ou en solo. Avec 3 ans d'expérience je peux développer des produits front-end et back-end.
 
-                        Je suis meneur de projet et chef de statup ce qui m'a permis à développer d'autres
+                        Je suis meneur de projet et chef de startup ce qui m'a permis à développer d'autres
 
                         compétences en web design et implémentation de nouvelles fonctionnalités aux projets existants.
                     </p>
@@ -185,7 +185,7 @@ console.log(scrollPosition);
 
                             <div className = 'third-section-content-p'>
                               <p>
-                                Développé des applications de service web pour vos projets personels et entreprises.
+                                Développé des applications de service web pour vos projets personnels et entreprises.
                               </p>
                             </div>
                       </div>
